@@ -7,3 +7,5 @@ and Scene loading support.
 I know gltf is not the best format I am trying to create a obj loader because gltf is annoying but it is what I have as of now
 
 This may eventually become public, but for now I'm not uploading the code for my Engine
+
+<h3>NOTE you need to download the whole repo to run the game, an it loads rextyres and models during runtime</h2>
