@@ -4,6 +4,8 @@ Ech0Engine is an OpenGL3d game engine that I am working on that is written in C+
 Just added model loading support for gltf
 and Scene loading support.
 
+Also, if you are acually thinking about using this download the .zip the repo has incorrect directories
+
 If you wanna use your own models; Have the texture as png or jpeg,
 then have the gltf and bin files. Edit Scene1.hpp and replace the "Model("Models/yourModelName" and also put it in the build folder not game folder
 
